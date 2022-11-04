@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennxa
 - 👀 I’m interested in development, cooking and videogames.
-- 🌱 I’m currently in the Apprentiche program of Encora. Im really happy and excited about that!
+- 🌱 I’m currently in the Apprentice program of Encora. Im really happy and excited about that!
 - 📫 How to reach me: Twitter: @dennxa
 
 <!---
